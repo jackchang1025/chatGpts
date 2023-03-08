@@ -29,7 +29,7 @@ cd v2ray
   "inbounds": [
     {
       "port": 1080,
-	  "listen": "0.0.0.0"，
+	  "listen": "0.0.0.0",
       "protocol": "socks",
       "settings": {
         "auth": "noauth",
